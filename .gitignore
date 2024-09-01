@@ -1,1 +1,5 @@
 css/bootstrap.css
+*.jpg
+*.png
+src/*.png
+src/*.jpg
