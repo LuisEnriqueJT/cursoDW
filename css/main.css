@@ -11,7 +11,27 @@ body{
     color: white;
 }
 
-header{
+/** header{
     width: 100%;
     background-color: rgb(113, 21, 21);
+} **/
+
+header h2{
+    color: green;
+}
+
+p{
+    color: orange;
+}
+
+p#azul{
+    color: deepskyblue;
+}
+
+p.prueba{
+    color: burlywood;
+}
+
+p.grande{
+    font-size: 30px;
 }
