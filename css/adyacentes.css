@@ -1,0 +1,12 @@
+/*Adyacente*/
+p + p {
+    color: rgb(75, 217, 96);
+}
+/*Hijo inmediato*/
+div > div {
+    color:rgb(227, 236, 94);
+}
+/*Hermano*/
+section ~ section{
+    background-color: darkmagenta;
+}
