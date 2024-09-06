@@ -1,0 +1,27 @@
+td{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+td[lang |= ES]{
+    background-color: red;
+}
+
+td[lang |= EN]{
+    background-color: blue;
+}
+
+td[lang |= IT]{
+    background-color: green;
+}
+
+div ul li.frutas{
+    color: black;
+    background-color: beige;
+}
+
+div ul li.colores{
+    color: rgb(255,255,255);
+    background-color: rgb(17, 14, 179);
+}
+
