@@ -25,3 +25,30 @@ div.padre{
 .dobleREM{
     font-size: 2rem;
 }
+
+/*Medidas absolutas*/
+
+.in{
+    /* 1in = 2.54 cm*/
+    font-size: 1in;
+}
+
+.cm{
+    font-size: 2.54cm;
+}
+
+.mm{
+    /* 1mm =  .10cm*/
+    font-size: 25.4mm;
+}
+
+.pt{
+    /* 1pt = 35 mm*/
+    font-size: 72.5pt;
+}
+
+.pc{
+    /* 1pc = 12 pt = 4.23 mm = 0.423 cm*/
+    font-size: 1pc;
+}
+
