@@ -52,3 +52,16 @@ div.padre{
     font-size: 1pc;
 }
 
+div.fija{
+    background-color: darkred;
+    height: 100px;
+    width: 100px;
+}
+
+div.porcentual{
+    background-color: black;
+    height: 100px;
+    margin: 5%;
+    width: 50%;
+
+}
