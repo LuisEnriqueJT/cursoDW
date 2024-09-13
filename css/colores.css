@@ -1,0 +1,30 @@
+div{
+    border: 2px solid black;
+    height: 50px;
+    margin: 3px;
+    width: 50px;
+}
+
+div.reservadas{
+    background: gold;
+}
+
+div.rgb{
+    background: rgb(255,120,120);
+}
+
+div.hex{
+    background: #185627;
+}
+
+div.hsl{
+    background: hsl(55,100%,50%);
+}
+
+div.rgbtra{
+    background: rgba(255, 120, 120, 0.2);
+}
+
+div.hsltra{
+    background: hsla(255, 100%, 50%, .8);
+}
