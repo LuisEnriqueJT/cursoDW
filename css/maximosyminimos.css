@@ -1,0 +1,17 @@
+div.original{
+    border: 1px solid red; 
+    width: 50%;
+    height: 100px;
+}
+
+div.min{
+    height: 100px;
+    background: black;
+    min-width: 250px;
+}
+
+div.max{
+    background: green;
+    height: 100px;
+    max-width: 250px;
+}
