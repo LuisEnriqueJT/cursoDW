@@ -1,0 +1,47 @@
+div.padre{
+    background: orange;
+    height: 2500px;
+    margin: 25px;
+    width: 1000px;
+}
+
+div.hijo{
+    background: red;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+}
+
+div.hijo2{
+    background: green;
+    height: 100px;
+    width: 100px;
+}
+
+div.hijo3{
+    background: blue;
+    height: 50px;
+    left:0px;
+    position: fixed;
+    top:0px;
+    width: 50px;
+}
+
+
+div.hijo4{
+    background: black;
+    height: 50px;
+    left:0px;
+    position: fixed;
+    top:400px;
+    width: 50px;
+}
+
+div.hijo5{
+    background: brown;
+    height: 50px;
+    left:800px;
+    position: fixed;
+    top:400px;
+    width: 50px;
+}
