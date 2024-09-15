@@ -1,0 +1,17 @@
+p{
+    display: block;
+}
+
+p.dinline{
+    background: darkorchid;
+    display: inline;
+}
+p.dnone{
+    background: greenyellow;
+    display: none;
+}
+
+p.dinlineb{
+    background: red;
+    display: inline-block;
+}
