@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+}
+
+div.diva{
+    background: black;
+    margin: 20px 300px 100px 10px;
+}
+
+div.divb{
+    background: green;
+    margin:0;
+}
+
+div.divc{
+    background: blueviolet;
+}
