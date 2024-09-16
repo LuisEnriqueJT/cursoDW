@@ -1,0 +1,26 @@
+div.padre{
+    background: goldenrod;
+    height: 1000px;
+    width: 300px;
+}
+
+div.hijo1{
+    background: red;
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+
+div.hijo2{
+    background: dodgerblue;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+div.hijo3{
+    background: green;
+    height: 100px;
+    width: 100px;
+    clear: both;
+}
