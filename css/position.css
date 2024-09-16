@@ -1,47 +1,47 @@
-div.padre{
-    background: orange;
-    height: 2500px;
-    margin: 25px;
-    width: 1000px;
-}
-
-div.hijo{
-    background: red;
-    height: 50px;
-    width: 50px;
-    position: absolute;
-}
-
-div.hijo2{
-    background: green;
+div{
+    border: 1px solid black;
     height: 100px;
     width: 100px;
 }
 
-div.hijo3{
-    background: blue;
-    height: 50px;
-    left:0px;
-    position: fixed;
-    top:0px;
-    width: 50px;
+div.padre{
+    background: red;
+    height: 250px;
+    margin: 25px;
+    width: 250px;
+    position: relative;
+    display: block;
 }
 
-
-div.hijo4{
-    background: black;
+div.hijo{
+    background: green;
     height: 50px;
-    left:0px;
-    position: fixed;
-    top:400px;
     width: 50px;
+    top: 0px;
+    position: absolute;
 }
 
-div.hijo5{
-    background: brown;
-    height: 50px;
-    left:900px;
-    position: fixed;
-    top:400px;
-    width: 50px;
+div.nivel2{
+    background: rgb(184, 184, 30);
+    height: 100px;
+    width: 100px;
+    top: 0px;
+    position: absolute;
 }
+
+div.nivel3{
+    background: #000;
+    height: 150px;
+    top: 0px;
+    position: absolute;
+    width: 150px;
+}
+
+div.nivel4{
+    background: #2604af;
+    height: 200px;
+    top: 0px;
+    position: absolute;
+    width: 200px;
+}
+
