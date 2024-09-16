@@ -1,0 +1,32 @@
+div.padre{
+    background: yellowgreen;
+    height: 500px;
+    width: 500px;
+    overflow: hidden;
+}
+
+div.hijo2{
+    background: darkorchid;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    z-index: 10;
+}
+
+div.hijo1{
+    background: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    z-index: 60;
+    position: relative;
+    top: -50px;
+}
+
+.oculto{
+    visibility: hidden;
+}
+
+.transparencia{
+    opacity: 0.1;
+}
