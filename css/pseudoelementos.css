@@ -1,0 +1,13 @@
+p{
+    color: red;
+}
+
+p:before{
+    content: ":::";
+    top: 10px;
+    position: relative;
+}
+
+p:after{
+    content: "---";
+}
