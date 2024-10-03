@@ -21,3 +21,8 @@ a:active{
 a:focus{
     background-color: cyan;
 }
+
+a:hover{
+    background-color: blue;
+    font-size: large;
+}
